@@ -15,7 +15,7 @@ this is a computer mouse 🐭.
 - mini finger trackball. with PMW3610 breakout pcb. https://github.com/badjeff/pmw3610-pcb
 - mechnical trackball tightness control
 - powered by [ZMK](https://github.com/zmkfirmware/zmk) => OSS, on-devie profiling, say no to (logxtxxh|razxx) eco-system
-- optimized for fingertip grip and claw grip
+- magnetic hotswap palm rest (optimized for all grip style)
 - rigid. (Zero crackly sound)
 - stupidly easy facelifting. (see CAD file, open soruced, playback the timeline)
 - ligthweight. (Errr, under 80g, made by PLA body with two sensors)
@@ -33,6 +33,8 @@ this is a computer mouse 🐭.
 <img src="./imgs/p7.jpeg" width="233">
 <img src="./imgs/p4.jpeg" width="233">
 <img src="./imgs/p6.jpeg" width="233">
+<img src="./imgs/p9.jpeg" width="233">
+<img src="./imgs/p10.jpeg" width="233">
 </p>
 
 <p float="left">
@@ -41,6 +43,7 @@ this is a computer mouse 🐭.
 <img src="./imgs/w3.png" width="233">
 <img src="./imgs/w4.png" width="233">
 <img src="./imgs/w5.png" width="233">
+<img src="./imgs/w5a.png" width="233">
 <img src="./imgs/w6.png" width="233">
 <img src="./imgs/w7.png" width="233">
 <img src="./imgs/w8.png" width="233">
