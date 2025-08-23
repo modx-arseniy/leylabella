@@ -16,7 +16,7 @@ this is a computer mouse 🐭.
 - mechnical trackball tightness control
 - powered by [ZMK](https://github.com/zmkfirmware/zmk) => OSS, on-devie profiling, say no to (logxtxxh|razxx) eco-system
 - magnetic hotswap palm rest (optimized for all grip style)
-- medium size (finger grip @ 112mm x 61mm x 38mm; palm grip @ 117mm x 61mm x 38mm)
+- medium size (claw grip @ 112mm x 61mm x 38mm; palm grip @ 117mm x 61mm x 38mm)
 - rigid. (Zero crackly sound)
 - stupidly easy facelifting. (see CAD file, open soruced, playback the timeline)
 - ligthweight. (Errr, under 80g, made by PLA body with two sensors)
