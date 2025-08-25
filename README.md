@@ -1,14 +1,10 @@
 # leylabella
 
-this is a computer mouse 🐭.
-
-<img src="./imgs/w1.png" width="640">
-
-*figure 1: wireframe view in fusion360
+<img src="./imgs/banner.jpeg" width="100%">
 
 ### design principles
-- symmetrical design
-- 8 buttons
+- symmetrical computer mouse
+- 8 customisable buttons
 - no visible screws
 - not-too-bad middle click
 - adjustable surface sensor position. with PAW3395 breakout pcb. https://github.com/badjeff/paw3395-pcb
