@@ -4,9 +4,12 @@
 
 ### design principles
 - symmetrical computer mouse
+- all gripping surface covering with unique curvy descent, generate unique touch memory of gripping, amplify awaring of grip slip to reduce grip adjustment duration
+- narrowing frontend bottom, increase pinky side friction, enhance lift and pitch control for flick movement
 - 8 customisable buttons
-- no visible screws
 - not-too-bad middle click
+- able to trigger side button by squeezing the stams of thumb or ring finger, ensure fingertip does not need to slip around
+- no visible screws
 - adjustable surface sensor position. with PAW3395 breakout pcb. https://github.com/badjeff/paw3395-pcb
 - mini finger trackball. with PMW3610 breakout pcb. https://github.com/badjeff/pmw3610-pcb
 - mechnical trackball tightness control
